@@ -6,10 +6,10 @@ st.set_page_config(page_title="Home", page_icon="", layout="wide")
 
 # Function to connect to the database
 def connect_to_database():
-    endpoint = "sql6.freemysqlhosting.net"
-    username = "sql6699766"
-    password = "4rs3qNccCu"
-    database = "sql6699766"
+    endpoint = "sql12.freemysqlhosting.net"
+    username = "sql12711956"
+    password = "lfjhjlxg6j"
+    database = "sql12711956"
     connection = mysql.connector.connect(
         host=endpoint,
         user=username,
